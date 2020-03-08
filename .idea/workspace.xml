@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31ac519b-4b14-4dfc-92e6-ea670f8197ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/burobo/springkintai/controllers/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/burobo/springkintai/controllers/HomeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583423042176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="burobo/kintaiのコードを取り込み画面上から操作できるようにした">
+      <created>1583668197515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583668197515</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".gitignoreを追加" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignoreを追加" />
+    <MESSAGE value="burobo/kintaiのコードを取り込み画面上から操作できるようにした" />
+    <option name="LAST_COMMIT_MESSAGE" value="burobo/kintaiのコードを取り込み画面上から操作できるようにした" />
   </component>
   <component name="WindowStateProjectService">
     <state x="493" y="0" width="787" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582735461273">
@@ -149,10 +150,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="281" y="29" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582733983288" />
-    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1583668007133">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1583668440041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583668007133" />
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1583668440041" />
     <state width="1237" height="357" key="GridCell.Tab.0.bottom" timestamp="1583668114933">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
